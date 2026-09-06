@@ -6,7 +6,7 @@ D-AI is a personal AI project I'm building from the ground up.
 
 The goal is not to make another chatbot that just calls an API. I want to understand how an AI actually works by building the different parts myself.
 
-Right now, D-AI is still very early in development, but it already has things like a tokenizer, persistent memory, conversation handling, a basic statistical language model, a GUI, and a simple learning system.
+Right now, D-AI is still very early in development, but it already has things like a tokenizer, persistent memory, conversation handling, a basic statistical language model, a GUI, and a simple learni[...]
 
 And yes, it is still pretty dumb sometimes.
 
@@ -173,11 +173,6 @@ Phase 1 — Basic AI
 
 
 
-
-
-
-
-
 Phase 2 — Neural network
 [] Build the neural network from scratch
 [] Implement embeddings
@@ -191,9 +186,6 @@ Phase 2 — Neural network
 
 
 
-
-
-
 Phase 3 — Better learning
 [] Learn from conversations
 [] Improve long-term memory
@@ -201,12 +193,6 @@ Phase 3 — Better learning
 [] Improve vocabulary management
 [] Better response generation
 [] Better error handling
-
-
-
-
-
-
 
 
 
@@ -307,9 +293,7 @@ Additional dependencies may be added as the neural network implementation develo
 
 License
 
-This project is currently experimental.
-
-A proper license will be added later.
+This project is licensed under the GNU General Public License v3.0. See the LICENSE file for full terms.
 
 Final note
 
