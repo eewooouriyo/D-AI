@@ -170,6 +170,14 @@ Phase 1 — Basic AI
 [x] Persistent memory
 [x] GUI
 [x] Thinker/debug system
+
+
+
+
+
+
+
+
 Phase 2 — Neural network
 [] Build the neural network from scratch
 [] Implement embeddings
@@ -179,6 +187,13 @@ Phase 2 — Neural network
 [] Implement training
 [] Implement inference
 [] Connect the neural model to D-AI
+
+
+
+
+
+
+
 Phase 3 — Better learning
 [] Learn from conversations
 [] Improve long-term memory
@@ -186,6 +201,15 @@ Phase 3 — Better learning
 [] Improve vocabulary management
 [] Better response generation
 [] Better error handling
+
+
+
+
+
+
+
+
+
 Phase 4 — Bigger D-AI
 [] Better reasoning
 [] Better language understanding
