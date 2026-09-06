@@ -1,21 +1,21 @@
-hola
-hola mundo
-hola como estas
-estoy bien
-estoy aprendiendo
-me gusta programar
-programar es divertido
-python es un lenguaje
-python es divertido
-una computadora ejecuta programas
-el cpu ejecuta instrucciones
-la memoria guarda datos
-una computadora tiene memoria
-roblox es un videojuego
-me gusta roblox
-me gusta crear juegos
-crear juegos es divertido
-crear programas es divertido
-el codigo controla programas
-programar requiere aprender
-aprender es importante
+hello
+hello world
+hello how are you
+i am fine
+i am learning
+i like programming
+programming is fun
+python is a programming language
+python is fun
+a computer runs programs
+the cpu executes instructions
+memory stores data
+a computer has memory
+roblox is a video game
+i like roblox
+i like creating games
+creating games is fun
+creating programs is fun
+code controls programs
+programming requires learning
+learning is important
